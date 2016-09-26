@@ -1,0 +1,3 @@
+﻿# spriteanimationGenerator
+PlayCanvasでスプライトアニメーションを利用する際に使用するツール
+連番png画像を1枚のpng画像にします。
